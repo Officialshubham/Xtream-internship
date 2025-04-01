@@ -1,4 +1,4 @@
-# Xtream-internship
+# XtreamCompute
 
 Due to IP contract, I cannot upload the software code.
 
